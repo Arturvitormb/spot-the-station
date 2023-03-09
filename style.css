@@ -1,0 +1,10 @@
+html {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: 'Open Sans';
+}
+
+#map {
+    height: 30rem;
+    width: 50rem;
+}
